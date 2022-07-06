@@ -7,4 +7,4 @@ importance: 1
 category: fun
 ---
 
-![Alt Text](2d-raycasting-cpp.gif)
+<!-- ![Alt Text](2d-raycasting-cpp.gif) -->
