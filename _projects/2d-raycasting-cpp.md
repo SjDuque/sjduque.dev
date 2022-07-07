@@ -1,8 +1,9 @@
 ---
 layout: page
-title: 2d-raycasting-cpp
+title: 2d raycasting
 description: raycasting using cpp and raylib. 
-img: assets/img/2d-raycasting-cpp.jpg
-importance: 1
+img: assets/img/projects/2d-raycasting-cpp.jpg
+redirect: https://github.com/SjDuque/2D-Raycasting-CPP
+importance: 3
 category: fun
 ---
