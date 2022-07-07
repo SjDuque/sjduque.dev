@@ -24,4 +24,4 @@ Just your typical hippie computer-scientist at UT Austin.
 
 **Currently reading:** <a href="http://aima.cs.berkeley.edu">A.I.</a>, <a href="https://hefferon.net/linearalgebra/">linear algebra</a>, and <a href="http://www.wheelockslatin.com">latin</a>.
 
-**Currently working on:** getting a job, finishing my research projects, and working on my philosophical A.I. story.
+**Currently working on:** getting a job, finishing my research projects, and writing my philosophical A.I. story.
