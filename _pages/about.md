@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Just your typical hippie computer-scientist at UT Austin.
 
-**Currently obsessed over:** studying cognitive science and exploring the moral implications of artificial consciousness.
+**Currently obsessed with:** studying cognitive science and exploring the moral implications of artificial consciousness.
 
 **Currently reading:** <a href="http://aima.cs.berkeley.edu">A.I.</a>, <a href="https://hefferon.net/linearalgebra/">linear algebra</a>, and <a href="http://www.wheelockslatin.com">latin</a>.
 
