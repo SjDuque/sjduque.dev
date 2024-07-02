@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Sergiojonathan Rivera Duque
-    - name: Date of Birth
-      value: November 27th, 2002
     - name: Languages
       value: English
 
@@ -13,28 +11,36 @@
   contents:
     - title: Bachelor of Computer Science
       institution: University of Texas, Austin
-      year: 2021-NOW
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
+      year: 2021-2023
+      description:
+        - Certificate: Forensic Science
+        - Relevant Coursework: Data Structures and Algorithms, Discrete Math, Computer Organization & Architecture, Algorithms & Complexity, Computer Systems, Machine Learning, iOS Development, Undergraduate Research, Probability & Statistics
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
+- title: Experience
+  type: time_table
+  contents:
+    - title: Software Engineer
+      institution: General Motors IT Innovation Center
+      year: January 2024 - Present
+      description:
+        - Developed software solutions primarily using C++ as part of the global manufacturing supply chain team.
+        - Contributed to various projects, enhancing system efficiency and performance.
+        - Collaborated with cross-functional teams to integrate new features and resolve issues.
+    - title: Machine Learning Mentor
+      institution: Breakout Mentors
+      year: January 2023 - Present
+      description:
+        - Delivered personalized mentorship to students in machine learning and programming.
+        - Guided students through projects, including a genetic algorithm project, real-time speech transcription using OpenAI Whisper, and vehicle control using computer vision tools like MediaPipe.
+        - Customized teaching methods and curriculum to individual learning styles, integrating practical exercises and challenges.
+        - Created and implemented a language model boot camp for new students interested in AI.
+        - Mentored students one-on-one, fostering interest in ML and leading successful project completion.
+    - title: Undergraduate Research Assistant
+      institution: Ellington Lab at UT Austin
+      year: February 2023 - June 2023
+      description:
+        - Assisted in developing and testing MUTCompute, a machine learning software for protein engineering.
+        - Researched and incorporated relevant techniques and findings into MUTCompute's development by reading scientific papers and staying up-to-date with the latest advancements in the field.
 
 - title: Cool Projects
   type: time_table
@@ -48,29 +54,9 @@
     - title: <a href="https://github.com/SjDuque/AirInstruments">Air-Instruments</a>
       year: 2021
       description: Have you ever dreamed of playing an air guitar and not look like an absolute fool when no sound comes out? Well, now you can look like a fool while playing an air guitar that actually produces sound!
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
+    - title: Robotic Hand Control Using Brain/Muscle Signals
+      year: 2024
+      description: Developed a system to control a robotic hand with 5 servos using MediaPipe hand pose detection. Implemented machine learning to train on brain signals (EEG) and muscle signals (EMG), enabling accurate hand movements to open and close based on the detected signals.
 
 - title: Programming Languages
   type: list
@@ -80,3 +66,4 @@
     - Java 
     - Python
     - Octave/MATLAB
+    - Swift
